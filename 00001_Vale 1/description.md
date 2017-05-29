@@ -1,0 +1,1 @@
+crea la variable `x` con valor 1
